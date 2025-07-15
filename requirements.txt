@@ -6,3 +6,5 @@ seaborn
 statsmodels
 prophet
 xgboost
+duckdb
+lightgbm
